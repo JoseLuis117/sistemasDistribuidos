@@ -1,0 +1,53 @@
+Instalacion en la nube.
+Hardware
+Infrastructure a service
+La infraestructura es necesaria
+hardware
+sistema operativo
+servidor fisicamente
+servidor en la nube como si fuera fisico
+
+Kubernetes y microservicios
+
+platform as service
+Hardware, sistema operativo y herramientas
+
+Software as services saas
+Se utiliza unicamente el aplicativo, por ejemplo servicio de nomina en la nube
+
+Estructura onpremise
+
+Yo configuro todo
+
+What is aws?
+
+Entrar a azure
+
+Bathch Proocessing
+
+Garner
+
+Batch
+Proceso automatizado de alto desemenio
+
+Recibir peticiones, detener y a cierta hora envia
+
+IBM CLOUD
+SAP
+
+Servidor Linux con nginx
+
+Segundo servidor 
+
+Bajar el manual de comandos en linux
+
+
+Gartner
+GUIA DE BOLSILLO DE LINUX O'REILLY
+
+Descargar el load balancer
+
+Uno de los nginx servidor de carga balanceador
+otros web server normales
+
+Pagina de cualquier tema montada en cualquiera de los servidores
